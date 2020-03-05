@@ -1,0 +1,10 @@
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\bin\Debug\2Лаба.exe.config
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\bin\Debug\2Лаба.exe
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\bin\Debug\2Лаба.pdb
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\_2Лаба.Properties.Resources.resources
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\2Лаба.csproj.GenerateResource.cache
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\2Лаба.csproj.CoreCompileInputs.cache
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\2Лаба.exe
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\2Лаба.pdb
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\_2Лаба.Form1.resources
+C:\Users\Creckeryop\source\repos\2Лаба\2Лаба\obj\Debug\2Лаба.csprojAssemblyReference.cache
